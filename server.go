@@ -4,8 +4,9 @@ import "fmt"
 
 // Server to init server object
 type Server struct {
-	ID   string
-	Name string
+	ID                string
+	Name              string
+	SomeLongNameField string
 }
 
 func main() {
