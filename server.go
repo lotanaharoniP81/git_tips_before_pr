@@ -8,6 +8,7 @@ type Server struct {
 	Name                  string
 	SomeLongNameField     string
 	SomeVertLongNameField string
+	ID2                   string
 }
 
 func main() {
