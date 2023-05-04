@@ -12,4 +12,5 @@ type Server struct {
 func main() {
 	fmt.Println("add")
 	fmt.Println("some fix in the server")
+	fmt.Println("some work")
 }
