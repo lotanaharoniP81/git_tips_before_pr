@@ -4,8 +4,9 @@ import "fmt"
 
 // Something to init something object
 type Something struct {
-	ID   string
-	Name string
+	ID                string
+	Name              string
+	VeryLongFieldName string
 }
 
 func main() {
